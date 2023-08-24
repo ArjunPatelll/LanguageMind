@@ -1,4 +1,3 @@
-project_idea.md
 
 # Idea: Fine-tuning GPT for Code Completion
 
